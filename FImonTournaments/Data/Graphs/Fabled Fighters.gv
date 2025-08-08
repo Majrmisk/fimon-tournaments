@@ -1,0 +1,31 @@
+digraph G {
+  0 [label="11: The Phoenix"];
+  1 [label="9: Cinder"];
+  2 [label="14: The Gentle Breeze"];
+  3 [label="12: Whirlwind"];
+  4 [label="6: The Prodigy"];
+  5 [label="2: The Wall of Steel"];
+  6 [label="3: The Unbreakable"];
+  7 [label="15: The Iron Wall"];
+  8 [label="9: Cinder"];
+  9 [label="14: The Gentle Breeze"];
+  10 [label="6: The Prodigy"];
+  11 [label="3: The Unbreakable"];
+  12 [label="9: Cinder"];
+  13 [label="6: The Prodigy"];
+  14 [label="6: The Prodigy"];
+  0 -> 8;
+  1 -> 8;
+  2 -> 9;
+  3 -> 9;
+  4 -> 10;
+  5 -> 10;
+  6 -> 11;
+  7 -> 11;
+  8 -> 12;
+  9 -> 12;
+  10 -> 13;
+  11 -> 13;
+  12 -> 14;
+  13 -> 14;
+}

@@ -1,0 +1,528 @@
+[
+  {
+    "Name": "Tempest Trials",
+    "StartDateTime": "2024-05-13 21:52",
+    "Type": "Standard",
+    "Winner": {
+      "Name": "The Prodigy",
+      "ID": "6"
+    },
+    "Trainers": [
+      {
+        "Name": "The Unbreakable",
+        "ID": "3"
+      },
+      {
+        "Name": "The Blitzkrieg",
+        "ID": "1"
+      },
+      {
+        "Name": "The Strategist",
+        "ID": "16"
+      },
+      {
+        "Name": "Cinder",
+        "ID": "9"
+      },
+      {
+        "Name": "The Gentle Breeze",
+        "ID": "14"
+      },
+      {
+        "Name": "Whirlwind",
+        "ID": "12"
+      },
+      {
+        "Name": "The Wall of Steel",
+        "ID": "2"
+      },
+      {
+        "Name": "The Prodigy",
+        "ID": "6"
+      }
+    ]
+  },
+  {
+    "Name": "Ascension Arena",
+    "StartDateTime": "2024-05-13 21:52",
+    "Type": "Groups",
+    "Winner": {
+      "Name": "The Tactician",
+      "ID": "7"
+    },
+    "Trainers": [
+      {
+        "Name": "The Unbreakable",
+        "ID": "3"
+      },
+      {
+        "Name": "The Tactician",
+        "ID": "7"
+      },
+      {
+        "Name": "Fists of Fury",
+        "ID": "8"
+      },
+      {
+        "Name": "The Strategist",
+        "ID": "16"
+      }
+    ]
+  },
+  {
+    "Name": "Elemental Exhibition",
+    "StartDateTime": "2024-05-13 21:52",
+    "Type": "Standard",
+    "Winner": {
+      "Name": "The Maestro",
+      "ID": "13"
+    },
+    "Trainers": [
+      {
+        "Name": "The Unseen Force",
+        "ID": "4"
+      },
+      {
+        "Name": "The Phoenix",
+        "ID": "11"
+      },
+      {
+        "Name": "The Maestro",
+        "ID": "13"
+      },
+      {
+        "Name": "The Prodigy",
+        "ID": "6"
+      },
+      {
+        "Name": "The Strategist",
+        "ID": "16"
+      },
+      {
+        "Name": "The Blitzkrieg",
+        "ID": "1"
+      },
+      {
+        "Name": "The Veteran",
+        "ID": "5"
+      },
+      {
+        "Name": "The Unbreakable",
+        "ID": "3"
+      },
+      {
+        "Name": "The Gentle Breeze",
+        "ID": "14"
+      },
+      {
+        "Name": "Fists of Fury",
+        "ID": "8"
+      },
+      {
+        "Name": "Whirlwind",
+        "ID": "12"
+      },
+      {
+        "Name": "The Iron Wall",
+        "ID": "15"
+      },
+      {
+        "Name": "The Upstart",
+        "ID": "10"
+      },
+      {
+        "Name": "The Tactician",
+        "ID": "7"
+      },
+      {
+        "Name": "The Wall of Steel",
+        "ID": "2"
+      },
+      {
+        "Name": "Cinder",
+        "ID": "9"
+      }
+    ]
+  },
+  {
+    "Name": "Bonding Blitz",
+    "StartDateTime": "2024-05-13 21:52",
+    "Type": "Standard",
+    "Winner": {
+      "Name": "The Gentle Breeze",
+      "ID": "14"
+    },
+    "Trainers": [
+      {
+        "Name": "The Gentle Breeze",
+        "ID": "14"
+      },
+      {
+        "Name": "The Veteran",
+        "ID": "5"
+      },
+      {
+        "Name": "Cinder",
+        "ID": "9"
+      },
+      {
+        "Name": "The Maestro",
+        "ID": "13"
+      }
+    ]
+  },
+  {
+    "Name": "Champion\u0027s Challenge",
+    "StartDateTime": "2024-05-13 21:52",
+    "Type": "Groups",
+    "Winner": {
+      "Name": "Fists of Fury",
+      "ID": "8"
+    },
+    "Trainers": [
+      {
+        "Name": "The Tactician",
+        "ID": "7"
+      },
+      {
+        "Name": "The Veteran",
+        "ID": "5"
+      },
+      {
+        "Name": "The Strategist",
+        "ID": "16"
+      },
+      {
+        "Name": "The Phoenix",
+        "ID": "11"
+      },
+      {
+        "Name": "The Gentle Breeze",
+        "ID": "14"
+      },
+      {
+        "Name": "The Unseen Force",
+        "ID": "4"
+      },
+      {
+        "Name": "Whirlwind",
+        "ID": "12"
+      },
+      {
+        "Name": "Fists of Fury",
+        "ID": "8"
+      },
+      {
+        "Name": "The Unbreakable",
+        "ID": "3"
+      },
+      {
+        "Name": "The Wall of Steel",
+        "ID": "2"
+      },
+      {
+        "Name": "The Maestro",
+        "ID": "13"
+      },
+      {
+        "Name": "Cinder",
+        "ID": "9"
+      },
+      {
+        "Name": "The Upstart",
+        "ID": "10"
+      },
+      {
+        "Name": "The Blitzkrieg",
+        "ID": "1"
+      },
+      {
+        "Name": "The Prodigy",
+        "ID": "6"
+      },
+      {
+        "Name": "The Iron Wall",
+        "ID": "15"
+      }
+    ]
+  },
+  {
+    "Name": "Rising Rookies",
+    "StartDateTime": "2024-05-13 21:52",
+    "Type": "Standard",
+    "Winner": {
+      "Name": "The Prodigy",
+      "ID": "6"
+    },
+    "Trainers": [
+      {
+        "Name": "The Strategist",
+        "ID": "16"
+      },
+      {
+        "Name": "The Veteran",
+        "ID": "5"
+      },
+      {
+        "Name": "Whirlwind",
+        "ID": "12"
+      },
+      {
+        "Name": "The Iron Wall",
+        "ID": "15"
+      },
+      {
+        "Name": "The Unbreakable",
+        "ID": "3"
+      },
+      {
+        "Name": "The Blitzkrieg",
+        "ID": "1"
+      },
+      {
+        "Name": "The Unseen Force",
+        "ID": "4"
+      },
+      {
+        "Name": "The Prodigy",
+        "ID": "6"
+      },
+      {
+        "Name": "Cinder",
+        "ID": "9"
+      },
+      {
+        "Name": "The Maestro",
+        "ID": "13"
+      },
+      {
+        "Name": "Fists of Fury",
+        "ID": "8"
+      },
+      {
+        "Name": "The Tactician",
+        "ID": "7"
+      },
+      {
+        "Name": "The Upstart",
+        "ID": "10"
+      },
+      {
+        "Name": "The Phoenix",
+        "ID": "11"
+      },
+      {
+        "Name": "The Gentle Breeze",
+        "ID": "14"
+      },
+      {
+        "Name": "The Wall of Steel",
+        "ID": "2"
+      }
+    ]
+  },
+  {
+    "Name": "Fabled Fighters",
+    "StartDateTime": "2024-05-13 21:53",
+    "Type": "Standard",
+    "Winner": {
+      "Name": "The Prodigy",
+      "ID": "6"
+    },
+    "Trainers": [
+      {
+        "Name": "The Phoenix",
+        "ID": "11"
+      },
+      {
+        "Name": "Cinder",
+        "ID": "9"
+      },
+      {
+        "Name": "The Gentle Breeze",
+        "ID": "14"
+      },
+      {
+        "Name": "Whirlwind",
+        "ID": "12"
+      },
+      {
+        "Name": "The Prodigy",
+        "ID": "6"
+      },
+      {
+        "Name": "The Wall of Steel",
+        "ID": "2"
+      },
+      {
+        "Name": "The Unbreakable",
+        "ID": "3"
+      },
+      {
+        "Name": "The Iron Wall",
+        "ID": "15"
+      }
+    ]
+  },
+  {
+    "Name": "Mystic Matchup",
+    "StartDateTime": "2024-05-13 21:53",
+    "Type": "Groups",
+    "Winner": {
+      "Name": "Cinder",
+      "ID": "9"
+    },
+    "Trainers": [
+      {
+        "Name": "The Wall of Steel",
+        "ID": "2"
+      },
+      {
+        "Name": "The Unseen Force",
+        "ID": "4"
+      },
+      {
+        "Name": "The Veteran",
+        "ID": "5"
+      },
+      {
+        "Name": "Cinder",
+        "ID": "9"
+      },
+      {
+        "Name": "The Gentle Breeze",
+        "ID": "14"
+      },
+      {
+        "Name": "The Unbreakable",
+        "ID": "3"
+      },
+      {
+        "Name": "The Phoenix",
+        "ID": "11"
+      },
+      {
+        "Name": "Fists of Fury",
+        "ID": "8"
+      }
+    ]
+  },
+  {
+    "Name": "Unleashed Uproar",
+    "StartDateTime": "2024-05-13 21:53",
+    "Type": "Standard",
+    "Winner": {
+      "Name": "The Upstart",
+      "ID": "10"
+    },
+    "Trainers": [
+      {
+        "Name": "The Unbreakable",
+        "ID": "3"
+      },
+      {
+        "Name": "The Tactician",
+        "ID": "7"
+      },
+      {
+        "Name": "Cinder",
+        "ID": "9"
+      },
+      {
+        "Name": "The Strategist",
+        "ID": "16"
+      },
+      {
+        "Name": "Whirlwind",
+        "ID": "12"
+      },
+      {
+        "Name": "The Wall of Steel",
+        "ID": "2"
+      },
+      {
+        "Name": "The Upstart",
+        "ID": "10"
+      },
+      {
+        "Name": "The Unseen Force",
+        "ID": "4"
+      },
+      {
+        "Name": "Fists of Fury",
+        "ID": "8"
+      },
+      {
+        "Name": "The Blitzkrieg",
+        "ID": "1"
+      },
+      {
+        "Name": "The Maestro",
+        "ID": "13"
+      },
+      {
+        "Name": "The Prodigy",
+        "ID": "6"
+      },
+      {
+        "Name": "The Iron Wall",
+        "ID": "15"
+      },
+      {
+        "Name": "The Phoenix",
+        "ID": "11"
+      },
+      {
+        "Name": "The Veteran",
+        "ID": "5"
+      },
+      {
+        "Name": "The Gentle Breeze",
+        "ID": "14"
+      }
+    ]
+  },
+  {
+    "Name": "Nexus Nexus",
+    "StartDateTime": "2024-05-13 21:53",
+    "Type": "Groups",
+    "Winner": {
+      "Name": "Cinder",
+      "ID": "9"
+    },
+    "Trainers": [
+      {
+        "Name": "The Unseen Force",
+        "ID": "4"
+      },
+      {
+        "Name": "The Upstart",
+        "ID": "10"
+      },
+      {
+        "Name": "The Veteran",
+        "ID": "5"
+      },
+      {
+        "Name": "The Tactician",
+        "ID": "7"
+      },
+      {
+        "Name": "Cinder",
+        "ID": "9"
+      },
+      {
+        "Name": "The Iron Wall",
+        "ID": "15"
+      },
+      {
+        "Name": "Fists of Fury",
+        "ID": "8"
+      },
+      {
+        "Name": "The Unbreakable",
+        "ID": "3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "ID": 1,
+    "Name": "The Blitzkrieg",
+    "BattlesWon": 5,
+    "TotalBattles": 13,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Cyberflare",
+        "Attack": 5,
+        "Speed": 5,
+        "HP": 8,
+        "Type": "Water"
+      },
+      {
+        "Name": "Cybertooth",
+        "Attack": 4,
+        "Speed": 6,
+        "HP": 8,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Datafang",
+        "Attack": 5,
+        "Speed": 2,
+        "HP": 11,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "Name": "The Wall of Steel",
+    "BattlesWon": 6,
+    "TotalBattles": 15,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Bytecub",
+        "Attack": 3,
+        "Speed": 6,
+        "HP": 9,
+        "Type": "Water"
+      },
+      {
+        "Name": "Megapulse",
+        "Attack": 4,
+        "Speed": 3,
+        "HP": 11,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Codewing",
+        "Attack": 3,
+        "Speed": 6,
+        "HP": 9,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "Name": "The Unbreakable",
+    "BattlesWon": 13,
+    "TotalBattles": 23,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Nanodragon",
+        "Attack": 2,
+        "Speed": 5,
+        "HP": 11,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Codewing",
+        "Attack": 4,
+        "Speed": 4,
+        "HP": 10,
+        "Type": "Water"
+      },
+      {
+        "Name": "Binaryte",
+        "Attack": 5,
+        "Speed": 5,
+        "HP": 8,
+        "Type": "Fire"
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "Name": "The Unseen Force",
+    "BattlesWon": 2,
+    "TotalBattles": 9,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Glitchhop",
+        "Attack": 6,
+        "Speed": 6,
+        "HP": 6,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Nanodrive",
+        "Attack": 2,
+        "Speed": 6,
+        "HP": 10,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Technosaur",
+        "Attack": 3,
+        "Speed": 3,
+        "HP": 12,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "Name": "The Veteran",
+    "BattlesWon": 4,
+    "TotalBattles": 14,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Cyberpaw",
+        "Attack": 6,
+        "Speed": 6,
+        "HP": 6,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Firewall",
+        "Attack": 4,
+        "Speed": 2,
+        "HP": 12,
+        "Type": "Water"
+      },
+      {
+        "Name": "Gigaflare",
+        "Attack": 5,
+        "Speed": 2,
+        "HP": 11,
+        "Type": "Water"
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "Name": "The Prodigy",
+    "BattlesWon": 20,
+    "TotalBattles": 23,
+    "TournamentsWon": 5,
+    "FImons": [
+      {
+        "Name": "Datadrive",
+        "Attack": 5,
+        "Speed": 6,
+        "HP": 7,
+        "Type": "Water"
+      },
+      {
+        "Name": "Cyberpaw",
+        "Attack": 5,
+        "Speed": 6,
+        "HP": 7,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Logiclash",
+        "Attack": 6,
+        "Speed": 6,
+        "HP": 6,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 7,
+    "Name": "The Tactician",
+    "BattlesWon": 3,
+    "TotalBattles": 10,
+    "TournamentsWon": 1,
+    "FImons": [
+      {
+        "Name": "Voltaic",
+        "Attack": 4,
+        "Speed": 6,
+        "HP": 8,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Codewing",
+        "Attack": 5,
+        "Speed": 4,
+        "HP": 9,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Bitstorm",
+        "Attack": 3,
+        "Speed": 3,
+        "HP": 12,
+        "Type": "Water"
+      }
+    ]
+  },
+  {
+    "ID": 8,
+    "Name": "Fists of Fury",
+    "BattlesWon": 9,
+    "TotalBattles": 19,
+    "TournamentsWon": 1,
+    "FImons": [
+      {
+        "Name": "Sparkbyte",
+        "Attack": 3,
+        "Speed": 4,
+        "HP": 11,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Binaryte",
+        "Attack": 4,
+        "Speed": 5,
+        "HP": 9,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Glitchhop",
+        "Attack": 6,
+        "Speed": 3,
+        "HP": 9,
+        "Type": "Water"
+      }
+    ]
+  },
+  {
+    "ID": 9,
+    "Name": "Cinder",
+    "BattlesWon": 11,
+    "TotalBattles": 21,
+    "TournamentsWon": 2,
+    "FImons": [
+      {
+        "Name": "Magneshield",
+        "Attack": 6,
+        "Speed": 4,
+        "HP": 8,
+        "Type": "Water"
+      },
+      {
+        "Name": "Codron",
+        "Attack": 6,
+        "Speed": 4,
+        "HP": 8,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Magnebyte",
+        "Attack": 6,
+        "Speed": 2,
+        "HP": 10,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 10,
+    "Name": "The Upstart",
+    "BattlesWon": 9,
+    "TotalBattles": 15,
+    "TournamentsWon": 1,
+    "FImons": [
+      {
+        "Name": "Cyberflare",
+        "Attack": 2,
+        "Speed": 2,
+        "HP": 14,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Glitchhop",
+        "Attack": 4,
+        "Speed": 3,
+        "HP": 11,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Logiclash",
+        "Attack": 6,
+        "Speed": 3,
+        "HP": 9,
+        "Type": "Fire"
+      }
+    ]
+  },
+  {
+    "ID": 11,
+    "Name": "The Phoenix",
+    "BattlesWon": 3,
+    "TotalBattles": 10,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Glitchling",
+        "Attack": 2,
+        "Speed": 2,
+        "HP": 14,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Firewall",
+        "Attack": 2,
+        "Speed": 4,
+        "HP": 12,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Cyberpaw",
+        "Attack": 6,
+        "Speed": 4,
+        "HP": 8,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 12,
+    "Name": "Whirlwind",
+    "BattlesWon": 3,
+    "TotalBattles": 11,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Quantumite",
+        "Attack": 2,
+        "Speed": 4,
+        "HP": 12,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Codewing",
+        "Attack": 5,
+        "Speed": 2,
+        "HP": 11,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Roboquill",
+        "Attack": 5,
+        "Speed": 5,
+        "HP": 8,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 13,
+    "Name": "The Maestro",
+    "BattlesWon": 14,
+    "TotalBattles": 19,
+    "TournamentsWon": 2,
+    "FImons": [
+      {
+        "Name": "Cyberflare",
+        "Attack": 4,
+        "Speed": 2,
+        "HP": 12,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Gigaflare",
+        "Attack": 3,
+        "Speed": 2,
+        "HP": 13,
+        "Type": "Water"
+      },
+      {
+        "Name": "Algorithmic",
+        "Attack": 5,
+        "Speed": 6,
+        "HP": 7,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 14,
+    "Name": "The Gentle Breeze",
+    "BattlesWon": 7,
+    "TotalBattles": 17,
+    "TournamentsWon": 1,
+    "FImons": [
+      {
+        "Name": "Algorithmic",
+        "Attack": 5,
+        "Speed": 6,
+        "HP": 7,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Nanodrive",
+        "Attack": 2,
+        "Speed": 2,
+        "HP": 14,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Sparkbyte",
+        "Attack": 3,
+        "Speed": 2,
+        "HP": 13,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 15,
+    "Name": "The Iron Wall",
+    "BattlesWon": 9,
+    "TotalBattles": 18,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Cyberpaw",
+        "Attack": 2,
+        "Speed": 4,
+        "HP": 12,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Codewing",
+        "Attack": 2,
+        "Speed": 5,
+        "HP": 11,
+        "Type": "Water"
+      },
+      {
+        "Name": "Technisaur",
+        "Attack": 4,
+        "Speed": 3,
+        "HP": 11,
+        "Type": "Fire"
+      }
+    ]
+  },
+  {
+    "ID": 16,
+    "Name": "The Strategist",
+    "BattlesWon": 8,
+    "TotalBattles": 15,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Nanodrive",
+        "Attack": 5,
+        "Speed": 4,
+        "HP": 9,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Cyberpaw",
+        "Attack": 4,
+        "Speed": 5,
+        "HP": 9,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Megapulse",
+        "Attack": 6,
+        "Speed": 2,
+        "HP": 10,
+        "Type": "Leaf"
+      }
+    ]
+  },
+  {
+    "ID": 17,
+    "Name": "The Unseen Force",
+    "BattlesWon": 0,
+    "TotalBattles": 0,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Algorithmic",
+        "Attack": 4,
+        "Speed": 3,
+        "HP": 11,
+        "Type": "Water"
+      },
+      {
+        "Name": "Bytecub",
+        "Attack": 3,
+        "Speed": 6,
+        "HP": 9,
+        "Type": "Fire"
+      },
+      {
+        "Name": "Gigavolt",
+        "Attack": 2,
+        "Speed": 5,
+        "HP": 11,
+        "Type": "Water"
+      }
+    ]
+  },
+  {
+    "ID": 18,
+    "Name": "Cinder",
+    "BattlesWon": 0,
+    "TotalBattles": 0,
+    "TournamentsWon": 0,
+    "FImons": [
+      {
+        "Name": "Circuitchu",
+        "Attack": 4,
+        "Speed": 6,
+        "HP": 8,
+        "Type": "Leaf"
+      },
+      {
+        "Name": "Codewing",
+        "Attack": 2,
+        "Speed": 5,
+        "HP": 11,
+        "Type": "Water"
+      },
+      {
+        "Name": "Nanodragon",
+        "Attack": 2,
+        "Speed": 3,
+        "HP": 13,
+        "Type": "Leaf"
+      }
+    ]
+  }
+]
