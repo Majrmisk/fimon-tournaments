@@ -15,4 +15,9 @@ A WinForms desktop tournament manager built with **C#**.
 
 ---
 
+## License
+This project is licensed under the [Apache License 2.0](./LICENSE).
+
+---
+
 > Developed as a project for the course **PV178** at **Masaryk University**. 
